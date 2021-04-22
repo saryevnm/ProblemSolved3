@@ -55,6 +55,6 @@ class Binary{
         }else {
             System.out.println("item not found!");
         }
-        //Complexity: O(logN = 4),the maximum count of iteration in the worst-case scenario is 4;
+        //Complexity: O(log arr.length = 4),the maximum count of iteration in the worst-case scenario is 4;
     }
 }
